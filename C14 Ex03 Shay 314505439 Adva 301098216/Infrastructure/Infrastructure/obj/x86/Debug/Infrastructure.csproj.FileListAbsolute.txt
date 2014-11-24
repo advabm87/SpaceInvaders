@@ -1,0 +1,11 @@
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\bin\x86\Debug\Content\Screens\blank.xnb
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\bin\x86\Debug\Content\Screens\gradient.xnb
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\bin\x86\Debug\Content\Screens\MessageBoxBG.xnb
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\bin\x86\Debug\Content\Screens\MessageBoxIcons.xnb
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\bin\x86\Debug\Content\Fonts\Calibri.xnb
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\bin\x86\Debug\Infrastructure.exe
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\bin\x86\Debug\Infrastructure.pdb
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\obj\x86\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\obj\x86\Debug\Infrastructure.exe
+C:\Users\Adva\Desktop\C14 Ex03 Shay 314505439 Adva 301098216\C14 Ex03 Shay 314505439 Adva 301098216\Infrastructure\Infrastructure\obj\x86\Debug\Infrastructure.pdb

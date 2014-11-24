@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="WaveBank">Wave Bank
+{
+    Name = WaveBank;
+    Xbox File = Xbox\WaveBank.xwb;
+    Windows File = Win\WaveBank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 4056800072;
+    Bank Last Revised High = 30393988;
+
+    Wave
+    {
+        Name = LifeDie;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\LifeDie.wav;
+        Build Settings Last Modified Low = 928202428;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 8731;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1035503360;
+            Last Modified High = 29265090;
+        }
+    }
+
+    Wave
+    {
+        Name = MenuMove;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\MenuMove.wav;
+        Build Settings Last Modified Low = 928202428;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 1042;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1035503360;
+            Last Modified High = 29265090;
+        }
+    }
+
+    Wave
+    {
+        Name = MotherShipKill;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\MotherShipKill.wav;
+        Build Settings Last Modified Low = 928202428;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 25805;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1035503360;
+            Last Modified High = 29265090;
+        }
+    }
+
+    Wave
+    {
+        Name = BarrierHit;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\BarrierHit.wav;
+        Build Settings Last Modified Low = 928212430;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 81568;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 823667968;
+            Last Modified High = 30393642;
+        }
+    }
+
+    Wave
+    {
+        Name = BGMusic;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\BGMusic.wav;
+        Build Settings Last Modified Low = 928212430;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 2257920;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3182323712;
+            Last Modified High = 29939528;
+        }
+    }
+
+    Wave
+    {
+        Name = EnemyKill;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\EnemyKill.wav;
+        Build Settings Last Modified Low = 928212430;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 3377;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1035503360;
+            Last Modified High = 29265090;
+        }
+    }
+
+    Wave
+    {
+        Name = GunShot;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\GunShot.wav;
+        Build Settings Last Modified Low = 928222437;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 4080;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1035503360;
+            Last Modified High = 29265090;
+        }
+    }
+
+    Wave
+    {
+        Name = LevelWin;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\LevelWin.wav;
+        Build Settings Last Modified Low = 928222437;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 948228;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3373798784;
+            Last Modified High = 30393646;
+        }
+    }
+
+    Wave
+    {
+        Name = GameOver;
+        File = ..\..\..\..\..\..\..\..\..\..\temp\XNA_Assets\Ex03\Sounds\GameOver.wav;
+        Build Settings Last Modified Low = 928222437;
+        Build Settings Last Modified High = 30393810;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 2474496;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 868962304;
+            Last Modified High = 30393651;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
